@@ -1,0 +1,10 @@
+D:\Bejjo\Task\Projects\C#\Spacebar Test\bin\Debug\Spacebar Test.exe.config
+D:\Bejjo\Task\Projects\C#\Spacebar Test\bin\Debug\Spacebar Test.exe
+D:\Bejjo\Task\Projects\C#\Spacebar Test\bin\Debug\Spacebar Test.pdb
+D:\Bejjo\Task\Projects\C#\Spacebar Test\obj\Debug\Spacebar Test.csprojAssemblyReference.cache
+D:\Bejjo\Task\Projects\C#\Spacebar Test\obj\Debug\Spacebar_Test.Form1.resources
+D:\Bejjo\Task\Projects\C#\Spacebar Test\obj\Debug\Spacebar_Test.Properties.Resources.resources
+D:\Bejjo\Task\Projects\C#\Spacebar Test\obj\Debug\Spacebar Test.csproj.GenerateResource.cache
+D:\Bejjo\Task\Projects\C#\Spacebar Test\obj\Debug\Spacebar Test.csproj.CoreCompileInputs.cache
+D:\Bejjo\Task\Projects\C#\Spacebar Test\obj\Debug\Spacebar Test.exe
+D:\Bejjo\Task\Projects\C#\Spacebar Test\obj\Debug\Spacebar Test.pdb
